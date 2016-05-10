@@ -2,7 +2,7 @@
 
 echo "[DOMINUS]: Loading Dominus..."
 
-DOWNLOAD_URI='https://github.com/Legoless/Dominus/archive/master.zip'
+DOWNLOAD_URI='https://github.com/YesGraph/Dominus/archive/master.zip'
 TARGET_DIR="."
 
 mkdir -p "${TARGET_DIR}/Dominus/"
